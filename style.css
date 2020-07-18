@@ -48,3 +48,7 @@ li{
   letter-spacing: 1.5px;
   line-height: 2em;
 }
+
+button {
+  margin-left: 5px;
+}
